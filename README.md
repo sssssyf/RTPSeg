@@ -6,8 +6,12 @@ To bridge the research gap and promote in-depth research, we introduce RTPSeg, t
 To validate RTPSeg, we also propose RTPSegNet, a baseline model for 3D semantic segmentation assisted with RGB-thermal images, achieving the SOTA performance on RTPSeg and exhibiting promising effectiveness in jointly leveraging the complementary information between point clouds, RGB images, and TIR images.  Compared with previous multi-modality methods, RTPSegNet can solve the challenge of RGB images degeneration under backlighting or low-light conditions by integrating the thermal radiation information of TIR images into model training. 
 
 
+| Name | Vedio Demo |
+|------|------|
+| LiDAR_GT | <img src="./demo/output_video_lidar_gt.gif" width="300" alt="演示1"/> |
+| RGB Images | <img src="./demo/output_video.gif" width="300" alt="演示2"/> |
+| TIR Images| <img src="./demo/output_video_infra.gif" width="300" alt="演示3"/> |
+| RGB Images with Projected Points | <img src="./demo/output_video_projection.gif" width="300" alt="演示4"/> |
+| TIR Images with Projected Points | <img src="./demo/output_video_infra_projection.gif" width="300" alt="演示5"/> |
 
 
-|------|
-| <img src="./demo/output_video_lidar_gt.gif" width="300" alt="演示1"/> |
-| <img src="./demo/output_video.gif" width="300" alt="演示2"/> |
