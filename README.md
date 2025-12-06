@@ -7,4 +7,4 @@ To validate RTPSeg, we also propose RTPSegNet, a baseline model for 3D semantic 
 
 
 markdown
-![使用演示](./demo/output_video_lidar_gt.gif)
+![使用演示](https://github.com/sssssyf/RTPSeg/blob/main/demo/output_video_lidar_gt.gif)
