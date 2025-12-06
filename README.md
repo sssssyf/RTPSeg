@@ -9,5 +9,5 @@ To validate RTPSeg, we also propose RTPSegNet, a baseline model for 3D semantic 
 
 | 功能 | 演示 |
 |------|------|
-| 安装过程 | <img src="./demo/output_video_lidar_gt.gif" width="300" /> |
-| 使用示例 | <img src="./demo/output_video.gif" width="300" /> |
+| 安装过程 | <img src="./demo/output_video_lidar_gt.gif" width="300" alt="演示1"/> |
+| 使用示例 | <img src="./demo/output_video.gif" width="300" alt="演示2"/> |
