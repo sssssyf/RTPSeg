@@ -9,6 +9,7 @@ To validate RTPSeg, we also propose RTPSegNet, a baseline model for 3D semantic 
 # Preview
 Both RTPSeg and RTPSegNet will be released here after paper publication.
 
+# Demo
 | Name | Vedio Demo |
 |------|------|
 | LiDAR_GT | <img src="./demo/output_video_lidar_gt.gif" width="300" alt="演示1"/> |
