@@ -21,3 +21,13 @@ To validate RTPSeg, we also propose RTPSegNet, a baseline model for 3D semantic 
 File shared via Baidu Netdisk: RTPSeg.zip
 Link: https://pan.baidu.com/s/1Ms8XwyeOpHwP9RWQrDoBag
 Access code: kb24
+
+# Cite
+{Yifan Sun, Chenguang Dai, Wenke Li, Xinpu Liu, Yongqi Sun, Ye Zhang, Weijun Guan, Yongsheng Zhang, Yulan Guo, Hanyun Wang,
+RTPSeg: A multi-modality dataset for LiDAR point cloud semantic segmentation assisted with RGB-thermal images in autonomous driving,
+ISPRS Journal of Photogrammetry and Remote Sensing,
+Volume 233,
+2026,
+Pages 25-38,
+ISSN 0924-2716,
+https://doi.org/10.1016/j.isprsjprs.2026.01.008.}
