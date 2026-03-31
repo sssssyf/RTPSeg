@@ -6,8 +6,7 @@ To bridge the research gap and promote in-depth research, we introduce RTPSeg, t
 
 To validate RTPSeg, we also propose RTPSegNet, a baseline model for 3D semantic segmentation assisted with RGB-thermal images, achieving the SOTA performance on RTPSeg and exhibiting promising effectiveness in jointly leveraging the complementary information between point clouds, RGB images, and TIR images.  Compared with previous multi-modality methods, RTPSegNet can solve the challenge of RGB images degeneration under backlighting or low-light conditions by integrating the thermal radiation information of TIR images into model training. 
 
-# Preview
-Both RTPSeg and RTPSegNet will be released here after paper publication.
+
 
 # Demo
 | Name | Vedio Demo |
@@ -18,4 +17,7 @@ Both RTPSeg and RTPSegNet will be released here after paper publication.
 | RGB Images with Projected Points | <img src="./demo/output_video_projection.gif" width="300" alt="演示4"/> |
 | TIR Images with Projected Points | <img src="./demo/output_video_infra_projection.gif" width="300" alt="演示5"/> |
 
-
+# Dataset Dowload
+File shared via Baidu Netdisk: RTPSeg.zip
+Link: https://pan.baidu.com/s/1Ms8XwyeOpHwP9RWQrDoBag
+Access code: kb24
