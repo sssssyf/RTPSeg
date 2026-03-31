@@ -30,4 +30,4 @@ Volume 233,
 2026,
 Pages 25-38,
 ISSN 0924-2716,
-https://doi.org/10.1016/j.isprsjprs.2026.01.008}
+https://doi.org/10.1016/j.isprsjprs.2026.01.008.}
