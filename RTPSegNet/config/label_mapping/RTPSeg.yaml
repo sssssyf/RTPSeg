@@ -1,0 +1,222 @@
+# This file is covered by the LICENSE file in the root of this project.
+labels: 
+  0: "Other"
+  1: "Bicycle"
+  2: "Building"
+  3: "Bus"
+  4: "Car"
+  5: "Carriageway"
+  6: "Cyclist"
+  7: "Fence"
+  8: "High vegetation"
+  9: "Low vegetation"
+  10: "Motorcycle"
+  11: "Motorcyclist"
+  12: "Pedestrian"
+  13: "Pole"
+  14: "Sidewalk"
+  15: "Traffic light"
+  16: "Traffic sign"
+  17: "Trafficbarrier liftcolumn"
+  18: "Truck"
+
+
+
+learning_map:
+  0 : 0
+  1 : 1
+  2 : 2
+  3 : 3
+  4 : 4
+  5 : 5
+  6 : 6
+  7 : 7
+  8 : 8
+  9 : 9
+  10: 10
+  11: 11
+  12: 12
+  13: 13
+  14: 14
+  15: 15
+  16: 16
+  17: 17
+  18: 18
+
+learning_map_inv: # inverse of previous map
+  0: 0   #"Other"
+  1: 1   #"Bicycle"
+  2: 2   #"Building"
+  3: 3   #"Bus"
+  4: 4   #"Car"
+  5: 5   #"Carriageway"
+  6: 6   #"Cyclist"
+  7: 7   #"Fence"
+  8: 8   #"High vegetation"
+  9: 9   #"Low vegetation"
+  10: 10 #"Motorcycle"
+  11: 11 #"Motorcyclist"
+  12: 12 #"Pedestrian"
+  13: 13 #"Pole"
+  14: 14 #"Sidewalk"
+  15: 15 #"Traffic light"
+  16: 16 #"Traffic sign"
+  17: 17 #"Trafficbarrier liftcolumn"
+  18: 18 #"Truck"
+
+color_map: # bgr
+  0: [0, 0, 0]
+  1: [0, 0, 255]
+  2: [245, 150, 100]
+  3: [245, 230, 100]
+  4: [250, 80, 100]
+  5: [150, 60, 30]
+  6: [255, 0, 0]
+  7: [180, 30, 80]
+  8: [255, 0, 0]
+  9: [30, 30, 255]
+  10: [200, 40, 255]
+  11: [90, 30, 150]
+  12: [255, 0, 255]
+  13: [255, 150, 255]
+  14: [75, 0, 75]
+  15: [75, 0, 175]
+  16: [0, 200, 255]
+  17: [50, 120, 255]
+  18: [0, 150, 255]
+
+
+
+
+learning_ignore: # Ignore classes
+  0: True      # "unlabeled", and others ignored
+  1: False
+  2: False
+  3: False
+  4: False
+  5: False
+  6: False
+  7: False
+  8: False
+  9: False
+  10: False
+  11: False
+  12: False
+  13: False
+  14: False
+  15: False
+  16: False
+  17: False
+  18: False
+
+split: # sequence numbers
+  train:
+    #- [1, 90]
+    - 1
+    - 2
+    - 3
+    - 4
+    - 5
+    - 6
+    - 7
+    - 8
+    - 9
+    - 10
+    - 11
+    - 12
+    - 13
+    - 14
+    - 63
+    - 64
+    - 65
+    - 66
+    - 67
+    - 68
+    - 69
+    - 70
+    - 71
+    - 72
+    - 73
+    - 74
+    - 75
+    - 76
+    - 77
+    - 78
+    - 79
+    - 80
+    - 81
+    - 82
+    - 83
+    - 84
+    - 85
+    - 86
+    - 87
+    - 88
+    - 89
+    - 90
+    - 91
+    - 92
+    - 93
+    - 94
+    - 95
+    - 96
+    - 97
+    - 98 # above is day scene
+    - 15 # following is night scene
+    - 16
+    - 17
+    - 18
+    - 19
+    - 20
+    - 21
+    - 22
+    - 23
+    - 24
+    - 25
+    - 26
+    - 27
+    - 28
+    - 29
+    - 30
+    - 31
+    - 32
+    - 33
+    - 34
+    - 35
+    - 36
+    - 37
+    - 38
+    - 39
+    - 40
+    - 41
+    - 42
+    - 43
+    - 44
+    - 45
+    - 46
+    - 47
+    - 48
+    - 49
+    - 50
+    - 51
+    - 52
+    - 53
+    - 54
+    - 55
+    - 56
+    - 57
+    - 58
+  valid:
+   # - [99, 103] #day
+   # - [59, 62]  #night
+   - 59
+   - 60
+   - 61
+   - 62
+   - 99
+   - 100
+   - 101
+   - 102
+   - 103
+
+
