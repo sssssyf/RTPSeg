@@ -45,6 +45,10 @@ Access code: kb24
 
 Note that we only provide the best version of RTPSegNet jointly trained with RGB and thermal infrared images, corresponding to the highest performance in our paper. You can choose to retrain the model to get other versions of RTPSegNet.
 
+# Environment
+You can refer to the requirements.txt to construct the experimental environment or pip -r requirements.txt
+We confirm that our project can be conducted on Python 3.8, CUDA 11.X or 12.X.
+
 # Citation
 If you find our work useful in your research, please consider citing:
 
