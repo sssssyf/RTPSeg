@@ -17,12 +17,20 @@ To validate RTPSeg, we also propose RTPSegNet, a baseline model for 3D semantic 
 | RGB Images with Projected Points | <img src="./demo/output_video_projection.gif" width="300" alt="演示4"/> |
 | TIR Images with Projected Points | <img src="./demo/output_video_infra_projection.gif" width="300" alt="演示5"/> |
 
-# Dataset Dowload
+# Dataset
 File shared via Baidu Netdisk: RTPSeg.zip
 Link: https://pan.baidu.com/s/1Ms8XwyeOpHwP9RWQrDoBag
 Access code: kb24
 
-# Cite
+./dataset/
+├── RTPSeg/
+│   ├── 01
+│   ├── 02
+│   ├── ...
+│   ├── 102
+│   └── 103
+
+# Citation
 If you find our work useful in your research, please consider citing:
 
 @article{SUN202625,
