@@ -37,10 +37,12 @@ Access code: kb24
 │   └── 103
 
 # Inference
+We provide the pretrained model of ResNet and RTPSegNet for inference:
 File shared via Baidu Netdisk：model
 Link: https://pan.baidu.com/s/1fSFwQJUY7YDkVshANxMcaw
 Access code: kb24
 
+Note that we only provide the best version of RTPSegNet jointly trained with RGB and thermal infrared images, corresponding to the highest performance in our paper. You can choose to retrain the model to get other versions of RTPSegNet.
 
 # Citation
 If you find our work useful in your research, please consider citing:
