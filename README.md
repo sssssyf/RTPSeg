@@ -26,25 +26,42 @@ Access code: kb24
 If you find our work useful in your research, please consider citing:
 
 @article{SUN202625,
+
 author = {Yifan Sun and Chenguang Dai and Wenke Li and Xinpu Liu and Yongqi Sun and Ye Zhang and Weijun Guan and Yongsheng Zhang and Yulan Guo and Hanyun Wang},
+
 title = {RTPSeg: A multi-modality dataset for LiDAR point cloud semantic segmentation assisted with RGB-thermal images in autonomous driving},
+
 journal = {ISPRS Journal of Photogrammetry and Remote Sensing},
+
 volume = {233},
+
 pages = {25-38},
+
 year = {2026},
+
 issn = {0924-2716},
 doi = {https://doi.org/10.1016/j.isprsjprs.2026.01.008},
+
 url = {https://www.sciencedirect.com/science/article/pii/S0924271626000080},
+
 keywords = {Dataset, Point cloud semantic segmentation, RGB image, Thermal infrared image, Autonomous driving},
+
 }
 
 # Acknowledgement
-Thanks the following work:
+Thanks the following work, which give us much motivation:
+
 @inproceedings{yan20222dpass,
+
   title={2dpass: 2d priors assisted semantic segmentation on lidar point clouds},
+  
   author={Yan, Xu and Gao, Jiantao and Zheng, Chaoda and Zheng, Chao and Zhang, Ruimao and Cui, Shuguang and Li, Zhen},
+  
   booktitle={European Conference on Computer Vision},
+  
   pages={677--695},
+  
   year={2022},
+  
   organization={Springer}
 }
