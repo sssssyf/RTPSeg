@@ -77,7 +77,7 @@ keywords = {Dataset, Point cloud semantic segmentation, RGB image, Thermal infra
 }
 
 # Acknowledgement
-Thanks the following work, which give us much motivation:
+Thanks the following work, which give us much inspiration:
 
 @inproceedings{yan20222dpass,
 
