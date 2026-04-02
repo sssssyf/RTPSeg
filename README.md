@@ -94,4 +94,5 @@ Thanks the following work, which give us much motivation:
   organization={Springer}
 }
 
-# For any questions or feedback, please feel free to contact the author, who will make every effort to assist in order to ensure that this work truly serves community research.
+# Feedback
+For any questions or feedback, please feel free to contact the author, who will make every effort to assist in order to ensure that this work truly serves community research.
