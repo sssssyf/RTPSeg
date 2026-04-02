@@ -36,6 +36,12 @@ Access code: kb24
 
 │   └── 103
 
+# Inference
+File shared via Baidu Netdisk：model
+Link: https://pan.baidu.com/s/1fSFwQJUY7YDkVshANxMcaw
+Access code: kb24
+
+
 # Citation
 If you find our work useful in your research, please consider citing:
 
