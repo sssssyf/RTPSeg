@@ -40,6 +40,7 @@ pages = {25-38},
 year = {2026},
 
 issn = {0924-2716},
+
 doi = {https://doi.org/10.1016/j.isprsjprs.2026.01.008},
 
 url = {https://www.sciencedirect.com/science/article/pii/S0924271626000080},
