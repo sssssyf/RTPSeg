@@ -23,11 +23,17 @@ Link: https://pan.baidu.com/s/1Ms8XwyeOpHwP9RWQrDoBag
 Access code: kb24
 
 ./dataset/
+
 ├── RTPSeg/
+
 │   ├── 01
+
 │   ├── 02
+
 │   ├── ...
+
 │   ├── 102
+
 │   └── 103
 
 # Citation
