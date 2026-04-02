@@ -38,7 +38,8 @@ Access code: kb24
 
 # Inference
 We provide the pretrained model of ResNet and RTPSegNet for inference:
-File shared via Baidu Netdisk：model
+
+File shared via Baidu Netdisk: model
 Link: https://pan.baidu.com/s/1fSFwQJUY7YDkVshANxMcaw
 Access code: kb24
 
