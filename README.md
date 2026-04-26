@@ -17,7 +17,10 @@ To validate RTPSeg, we also propose RTPSegNet, a baseline model for 3D semantic 
 | RGB Images with Projected Points | <img src="./demo/output_video_projection.gif" width="300" alt="演示4"/> |
 | TIR Images with Projected Points | <img src="./demo/output_video_infra_projection.gif" width="300" alt="演示5"/> |
 
-<!-- # Dataset
+# Dataset
+The RTPSeg dataset is undergoing coordinate obfuscation processing. The public version will be the obfuscated version to ensure data security. The key will be managed by the publisher. It is expected to be officially released in one week.
+
+<!--
 File shared via Baidu Netdisk: RTPSeg.zip
 Link: https://pan.baidu.com/s/1Ms8XwyeOpHwP9RWQrDoBag
 Access code: kb24
