@@ -1,4 +1,5 @@
-<img src="./demo/fig0.png" width="300" alt="演示1"/>
+<img src="./demo/fig0.png" width="1000" alt="演示1"/>
+
 # RTPSeg
 RTPSeg: A Multi-Modality Dataset for LiDAR Point Cloud Semantic Segmentation Assisted with RGB-Thermal Images In Autonomous Driving, ISPRS J. P&RS 2026.
 
@@ -12,11 +13,11 @@ To validate RTPSeg, we also propose RTPSegNet, a baseline model for 3D semantic 
 # Demo
 | Name | Vedio Demo |
 |------|------|
-| LiDAR_GT | <img src="./demo/output_video_lidar_gt.gif" width="300" alt="演示1"/> |
-| RGB Images | <img src="./demo/output_video.gif" width="300" alt="演示2"/> |
-| TIR Images| <img src="./demo/output_video_infra.gif" width="300" alt="演示3"/> |
-| RGB Images with Projected Points | <img src="./demo/output_video_projection.gif" width="300" alt="演示4"/> |
-| TIR Images with Projected Points | <img src="./demo/output_video_infra_projection.gif" width="300" alt="演示5"/> |
+| LiDAR_GT | <img src="./demo/output_video_lidar_gt.gif" width="500" alt="演示1"/> |
+| RGB Images | <img src="./demo/output_video.gif" width="500" alt="演示2"/> |
+| TIR Images| <img src="./demo/output_video_infra.gif" width="500" alt="演示3"/> |
+| RGB Images with Projected Points | <img src="./demo/output_video_projection.gif" width="500" alt="演示4"/> |
+| TIR Images with Projected Points | <img src="./demo/output_video_infra_projection.gif" width="500" alt="演示5"/> |
 
 # Dataset
 
