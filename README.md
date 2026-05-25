@@ -1,3 +1,4 @@
+<img src="./demo/fig0.png" width="300" alt="演示1"/>
 # RTPSeg
 RTPSeg: A Multi-Modality Dataset for LiDAR Point Cloud Semantic Segmentation Assisted with RGB-Thermal Images In Autonomous Driving, ISPRS J. P&RS 2026.
 
@@ -18,12 +19,9 @@ To validate RTPSeg, we also propose RTPSegNet, a baseline model for 3D semantic 
 | TIR Images with Projected Points | <img src="./demo/output_video_infra_projection.gif" width="300" alt="演示5"/> |
 
 # Dataset
-The RTPSeg dataset is undergoing coordinate obfuscation processing. The public version will be the obfuscated version to ensure data security. The key will be managed by the publisher. It is expected to be officially released in one week.
 
-<!--
 File shared via Baidu Netdisk: RTPSeg.zip
 Link: https://pan.baidu.com/s/1Ms8XwyeOpHwP9RWQrDoBag
-Access code: kb24
 
 ./dataset/
 
@@ -38,7 +36,7 @@ Access code: kb24
 │   ├── 102
 
 │   └── 103
--->
+
 
 # Inference
 We provide the pretrained model of ResNet and RTPSegNet for inference:
