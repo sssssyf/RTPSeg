@@ -56,7 +56,7 @@ You can refer to the requirements.txt to construct the experimental environment,
 We confirm that our project can be conducted on Python 3.8, CUDA 11.X or 12.X.
 
 # Citation
-If you find our work useful in your research, please consider citing:
+If you find our work useful in your research, please consider citing it:
 
 @article{SUN202625,
 
