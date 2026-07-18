@@ -26,7 +26,7 @@ To validate RTPSeg, we also propose RTPSegNet, a baseline model for 3D semantic 
 # Dataset
 
 File shared via Baidu Netdisk: RTPSeg.zip
-Link: https://pan.baidu.com/s/1kozZZXlERUMFjIBD777igg
+Link: https://pan.baidu.com/s/1S4HAkJLpNafakcaNLI9UJA
 key: kb24
 
 ├── RTPSeg/datasets/
