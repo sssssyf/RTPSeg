@@ -26,8 +26,11 @@ To validate RTPSeg, we also propose RTPSegNet, a baseline model for 3D semantic 
 # Dataset
 
 File shared via Baidu Netdisk: RTPSeg.zip
+
 Link: https://pan.baidu.com/s/1S4HAkJLpNafakcaNLI9UJA
+
 key: kb24
+
 One Drive Link: https://drive.google.com/file/d/1F0SVT87ynoa_3JaOE602tBzMojjLVPWR/view?usp=sharing
 
 ├── RTPSeg/datasets/
@@ -47,7 +50,9 @@ One Drive Link: https://drive.google.com/file/d/1F0SVT87ynoa_3JaOE602tBzMojjLVPW
 We provide the pretrained model of ResNet and RTPSegNet for inference:
 
 File shared via Baidu Netdisk: model
+
 Link: https://pan.baidu.com/s/1fSFwQJUY7YDkVshANxMcaw
+
 Access code: kb24
 
 Note that we only provide the best version of RTPSegNet jointly trained with RGB and thermal infrared images, corresponding to the highest performance in our paper. You can choose to retrain the model to get other versions of RTPSegNet.
